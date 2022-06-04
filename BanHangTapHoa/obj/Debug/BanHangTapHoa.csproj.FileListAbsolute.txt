@@ -1,0 +1,14 @@
+F:\Learn_C_Sharp\BanHangTapHoa\BanHangTapHoa\obj\Debug\BanHangTapHoa.csproj.AssemblyReference.cache
+F:\Learn_C_Sharp\BanHangTapHoa\BanHangTapHoa\obj\Debug\BanHangTapHoa.csproj.SuggestedBindingRedirects.cache
+F:\Learn_C_Sharp\BanHangTapHoa\BanHangTapHoa\obj\Debug\BanHangTapHoa.frmDangNhap.resources
+F:\Learn_C_Sharp\BanHangTapHoa\BanHangTapHoa\obj\Debug\BanHangTapHoa.frmMain.resources
+F:\Learn_C_Sharp\BanHangTapHoa\BanHangTapHoa\obj\Debug\BanHangTapHoa.Properties.Resources.resources
+F:\Learn_C_Sharp\BanHangTapHoa\BanHangTapHoa\obj\Debug\BanHangTapHoa.csproj.GenerateResource.cache
+F:\Learn_C_Sharp\BanHangTapHoa\BanHangTapHoa\obj\Debug\BanHangTapHoa.csproj.CoreCompileInputs.cache
+F:\Learn_C_Sharp\BanHangTapHoa\BanHangTapHoa\bin\Debug\BanHangTapHoa.exe.config
+F:\Learn_C_Sharp\BanHangTapHoa\BanHangTapHoa\bin\Debug\BanHangTapHoa.exe
+F:\Learn_C_Sharp\BanHangTapHoa\BanHangTapHoa\bin\Debug\BanHangTapHoa.pdb
+F:\Learn_C_Sharp\BanHangTapHoa\BanHangTapHoa\bin\Debug\FontAwesome.Sharp.dll
+F:\Learn_C_Sharp\BanHangTapHoa\BanHangTapHoa\obj\Debug\BanHangTapHoa.csproj.CopyComplete
+F:\Learn_C_Sharp\BanHangTapHoa\BanHangTapHoa\obj\Debug\BanHangTapHoa.exe
+F:\Learn_C_Sharp\BanHangTapHoa\BanHangTapHoa\obj\Debug\BanHangTapHoa.pdb
